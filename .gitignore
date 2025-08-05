@@ -11,6 +11,8 @@ results/*
 !results/.gitkeep
 plots/*
 !plots/.gitkeep
+!plots/roofline_cpu-cuda-metal.png
+!plots/roofline_cpu.png
 
 # Python
 __pycache__/
