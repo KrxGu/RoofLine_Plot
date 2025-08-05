@@ -1,0 +1,73 @@
+# Build artifacts
+build/
+*.o
+*.so
+*.dll
+*.dylib
+*.a
+
+# Results and plots  
+results/*
+!results/.gitkeep
+plots/*
+!plots/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Virtual environment
+/venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# CUDA
+*.ptx
+*.cubin
+
+# Profiling outputs
+*.nvprof
+*.qdrep
+*.trace
+*.xml
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Logs
+*.log
+nohup.out
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
