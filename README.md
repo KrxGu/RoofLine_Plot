@@ -262,14 +262,6 @@ RoofLine_Plot/
 - **Educational**: Learn parallel computing performance principles
 - **Research**: Validate theoretical models against real measurements
 
-## 🤝 Contributing
-
-We welcome contributions! See [docs/overview.md](docs/overview.md) for architecture details and [docs/faq.md](docs/faq.md) for common questions.
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
 ---
 
 **Made with ❤️ for the HPC and GPU computing community**
